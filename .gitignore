@@ -14,5 +14,18 @@ n2s3_sbt_dependency/project/target/
 n2s3_sbt_dependency/project/boot/
 n2s3_sbt_dependency/project/plugins/project/
 
+n2s3_sbt_jar/.cache
+n2s3_sbt_jar/.history
+n2s3_sbt_jar/.lib/
+n2s3_sbt_jar/dist/*
+n2s3_sbt_jar/target/
+n2s3_sbt_jar/lib_managed/
+n2s3_sbt_jar/src_managed/
+n2s3_sbt_jar/project/project/
+n2s3_sbt_jar/project/target/
+n2s3_sbt_jar/project/boot/
+n2s3_sbt_jar/project/plugins/project/
+
 # Scala-IDE specific
 n2s3_sbt_dependency/.idea/
+n2s3_sbt_jar/.idea/
