@@ -18,3 +18,5 @@ libraryDependencies ++= {
     "net.sf" %% "jaer" % "1.0" from "https://sourcesup.renater.fr/frs/download.php/file/5047/jaer.jar"
   )
 }
+
+unmanagedJars in Compile += file("../lib/n2s3_2.11-1.0.jar")
