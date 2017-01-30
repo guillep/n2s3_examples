@@ -41,3 +41,4 @@ n2s3_sbt_assembly/project/plugins/project/
 # Scala-IDE specific
 n2s3_sbt_dependency/.idea/
 n2s3_sbt_jar/.idea/
+n2s3_sbt_assembly/.idea/
