@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$USER_HOME$/projects/N2S3/n2s3_examples/n2s3_sbt_dependency/.idea/modules/n2s3_sbt_dependency.iml" filepath="$USER_HOME$/projects/N2S3/n2s3_examples/n2s3_sbt_dependency/.idea/modules/n2s3_sbt_dependency.iml" />
-      <module fileurl="file://$USER_HOME$/projects/N2S3/n2s3_examples/n2s3_sbt_dependency/.idea/modules/n2s3_sbt_dependency-build.iml" filepath="$USER_HOME$/projects/N2S3/n2s3_examples/n2s3_sbt_dependency/.idea/modules/n2s3_sbt_dependency-build.iml" />
-    </modules>
-  </component>
-</project>
