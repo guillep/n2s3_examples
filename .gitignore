@@ -2,16 +2,17 @@
 *.log
 
 # sbt specific
-.cache
-.history
-.lib/
-dist/*
-target/
-lib_managed/
-src_managed/
-project/boot/
-project/plugins/project/
+n2s3_sbt_dependency/.cache
+n2s3_sbt_dependency/.history
+n2s3_sbt_dependency/.lib/
+n2s3_sbt_dependency/dist/*
+n2s3_sbt_dependency/target/
+n2s3_sbt_dependency/lib_managed/
+n2s3_sbt_dependency/src_managed/
+n2s3_sbt_dependency/project/project/
+n2s3_sbt_dependency/project/target/
+n2s3_sbt_dependency/project/boot/
+n2s3_sbt_dependency/project/plugins/project/
 
 # Scala-IDE specific
-.scala_dependencies
-.worksheet
+n2s3_sbt_dependency/.idea/
